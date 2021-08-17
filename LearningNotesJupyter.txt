@@ -1,0 +1,13 @@
+steg 0
+	pip install virtualenv i system python - 1 gang per python install
+	
+steg 1
+	virtualenv <envname> i environments mappe eller prosjektmappe
+	
+steg 2
+	fra prosjektmappe eller env mappe
+	<envname>/Scripts/activate.bat
+	
+steg 3
+	installer dependencies
+	
