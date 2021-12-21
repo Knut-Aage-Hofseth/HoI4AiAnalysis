@@ -10,4 +10,6 @@ steg 2
 	
 steg 3
 	installer dependencies
+	pip install -r requirements.txt
+
 	
